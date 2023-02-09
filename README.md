@@ -1,13 +1,13 @@
 <div id="header" align="center">
-	<h1>Hi there, I'm Arina</h1>
+	<h1>Hi there, I'm Arina 👋</h1>
 	<h3>Data analyst from Moscow</h3>
 </div>
 <div id="socials" align="center">
-	<a href="[telegram-url](https://t.me/chaarse)">
+	<a href="https://t.me/chaarse">
 		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 	</a>
-	<a href="twitter-url">
-		<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+	<a href="https://vk.com/chaarse">
+		<img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>
 	</a>
 	<a href="telegram-url">
 		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
