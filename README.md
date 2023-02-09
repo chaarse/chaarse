@@ -2,6 +2,7 @@
 	<h1>Hi there, I'm Arina 👋</h1>
 	<h3>Data analyst from Moscow</h3>
 </div>
+
 <div id="socials" align="center">
 	<a href="https://t.me/chaarse">
 		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
@@ -14,17 +15,34 @@
 	</a>
 </div>
 
-<!--
-**chaarse/chaarse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
+- 📝 I'm currently learning **Python, SQL, machine learning, statistics and Business Intelligence**
+- :woman_student: I study at the Moscow Aviation Institute (MAI)
+- 📄 Know about my experiences [hh](https://hh.ru/resume/648b0e1fff0bac09cb0039ed1f49556f413961?from=share_ios)
+- 📫 Reach me by [Telegram](https://t.me/chaarse), [email](mailto:arienachaplygina@yandex.ru)
+- :pizza: I love sports and food
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and tools
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="60" height="60"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="postgresql" width="60" height="60"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" width="60" height="60"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="pandas" width="60" height="60"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="numpy" width="60" height="60"/>&nbsp;
+
+
+
+### My stat
+
+<div id="stat" align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chaarse&theme=github_dark"  alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chaarse&theme=github_dark" alt=""/>
+     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chaarse&theme=github_dark" alt=""/>
+</div>
+
+---
+
+
+
