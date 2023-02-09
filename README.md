@@ -9,8 +9,8 @@
 	<a href="https://vk.com/chaarse">
 		<img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>
 	</a>
-	<a href="telegram-url">
-		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+	<a href="https://instagram.com/chaarse?r=nametag">
+		<img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
 	</a>
 </div>
 
