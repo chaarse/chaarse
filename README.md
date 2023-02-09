@@ -1,4 +1,18 @@
-### Hi there 👋
+<div id="header" align="center">
+	<h1>Hi there, I'm Arina</h1>
+	<h3>Data analyst from Moscow</h3>
+</div>
+<div id="socials" align="center">
+	<a href="[telegram-url](https://t.me/chaarse)">
+		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+	</a>
+	<a href="twitter-url">
+		<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+	</a>
+	<a href="telegram-url">
+		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+	</a>
+</div>
 
 <!--
 **chaarse/chaarse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
