@@ -20,7 +20,7 @@
 - :woman_student: I study at the Moscow Aviation Institute (MAI)
 - 📄 Know about my experiences [hh](https://hh.ru/resume/648b0e1fff0bac09cb0039ed1f49556f413961?from=share_ios)
 - 📫 Reach me by [Telegram](https://t.me/chaarse), [email](mailto:arienachaplygina@yandex.ru)
-- :pizza: I love sports and food
+- :pizza: I love underwater sports and food
 
 ---
 
