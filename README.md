@@ -16,10 +16,9 @@
 </div>
 
 ### About me
-- 📝 I'm currently learning **Python, SQL, machine learning, statistics and Business Intelligence**
+- 📝 Data Analyst / Sber
 - :woman_student: HSE AI
 - 📫 Reach me by [Telegram](https://t.me/chaarse), [email](mailto:arienachaplygina@yandex.ru)
-- :pizza: I love underwater sports and food
 
 ---
 
