@@ -17,7 +17,7 @@
 
 ### About me
 - 📝 Data Analyst / Sber
-- :woman_student: HSE AI
+- :woman_student: HSE'26 AI
 - 📫 Reach me by [Telegram](https://t.me/chaarse), [email](mailto:arienachaplygina@yandex.ru)
 
 ---
